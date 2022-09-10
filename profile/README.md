@@ -17,7 +17,7 @@ Here's a brief guide to our most popular repositories and what's inside.
 
 Thanks to the following organizations for sponsoring the development of OpenPodcast:
 
-Media Tech Lab Bayern (<a href="https://github.com/media-tech-lab">@media-tech-lab</a>)
+<a href=" https://media-tech-lab.com">Media Tech Lab by Media Lab Bayern</a> (<a href="https://github.com/media-tech-lab">@media-tech-lab</a>)
 
 <a href="https://media-tech-lab.com">
     <img src="https://raw.githubusercontent.com/media-tech-lab/.github/main/assets/mtl-powered-by.png" width="240" title="Media Tech Lab powered by logo">
