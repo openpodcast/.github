@@ -19,6 +19,6 @@ Thanks to the following organizations for sponsoring the development of OpenPodc
 
 Media Tech Lab Bayern (<a href="https://github.com/media-tech-lab">@media-tech-lab</a>)
 
-<a href="https://www.media-lab.de/en/programs/media-tech-lab">
+<a href="https://media-tech-lab.com">
     <img src="https://raw.githubusercontent.com/media-tech-lab/.github/main/assets/mtl-powered-by.png" width="240" title="Media Tech Lab powered by logo">
 </a>
