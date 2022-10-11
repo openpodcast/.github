@@ -1,4 +1,7 @@
-# Hi there 👋 and welcome to OpenPodcast! 
+<img src="/profile/openpodcast.png" width="400px" />
+
+
+## 🎙️ Hi there and welcome to our space 
 
 We are building a free and open ecosystem for podcasts.
 
@@ -6,7 +9,7 @@ In our first project we aim at providing better analytics data for podcast hosts
 
 Learn more on https://openpodcast.dev or listen to our podcast about the project on https://openpodcast.dev/podcast
 
-### 🎙️ Repository Index
+### Repository Index
 
 Here's a brief guide to our most popular repositories and what's inside.
 
