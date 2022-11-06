@@ -13,11 +13,12 @@ Learn more on https://openpodcast.dev or listen to our podcast about the project
 
 Here's a brief guide to our most popular repositories and what's inside.
 
-- ⏩ [forwarder](https://github.com/openpodcast/forwarder): A proxy for podcast RSS feeds to collect additional analytics.
 - 🌐 [website](https://github.com/openpodcast/website): Our public project documentation.
+- ⏩ [forwarder](https://github.com/openpodcast/forwarder): A proxy for podcast RSS feeds to collect additional analytics.
 - ⏬ [spotify-connector](https://github.com/openpodcast/spotify-connector): Python client for the unoffical Spotify Podcast API.
-- 📈 [open](https://github.com/openpodcast/open): Our open metrics for the Podcast, which uses the spotify-importer.
-- ⚙️ [api](https://github.com/openpodcast/api): The Open Podcast server API which takes payloads and persists them to our database.
+- ⏬ [apple-connector](https://github.com/openpodcast/apple-connector): Python client for the unoffical Apple Podcast API.
+- 📈 [open](https://github.com/openpodcast/open): Our open metrics for the Podcast, which uses the connectors.
+- ⚙️ [api](https://github.com/openpodcast/api): The Open Podcast server API which accepts payloads and persists them to our database.
 - 🗺️ [roadmap](https://github.com/openpodcast/roadmap): The project roadmap.
 
 ### ❤️ Sponsors
