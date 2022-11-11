@@ -5,7 +5,7 @@
 
 We are building a free and open ecosystem for podcasts.
 
-https://user-images.githubusercontent.com/175809/201365453-c6251c95-a99a-44b9-8c9d-24e2837fec0c.mp4
+https://user-images.githubusercontent.com/175809/201367272-aca3573e-9384-4498-813f-73a9e76a98e2.mp4
 
 Learn more on https://openpodcast.dev or listen to our podcast about the project on https://openpodcast.dev/podcast
 
