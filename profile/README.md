@@ -21,6 +21,8 @@ Here's a brief guide to our most popular repositories and what's inside.
 - ⚙️ [api](https://github.com/openpodcast/api): The Open Podcast server API which accepts payloads and persists them to our database.
 - 🗺️ [roadmap](https://github.com/openpodcast/roadmap): The project roadmap.
 
+To set up Open Podcast yourself (as a self-hosted solution), go check out the [stack](https://github.com/openpodcast/stack) repository, which contains all of the above components.
+
 ### ❤️ Sponsors
 
 Thanks to the following organizations for sponsoring the development of OpenPodcast:
