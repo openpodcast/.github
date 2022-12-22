@@ -14,6 +14,7 @@ Learn more on https://openpodcast.dev or listen to our podcast about the project
 Here's a brief guide to our most popular repositories and what's inside.
 
 - 🌐 [website](https://github.com/openpodcast/website): Our public project documentation.
+- 💻 [stack](https://github.com/openpodcast/stack): The full stack of all needed components defined in a `docker-compose` files to spin up your local/self-hosted fully working Open Podcast Analytics stack.
 - ⏩ [forwarder](https://github.com/openpodcast/forwarder): A proxy for podcast RSS feeds to collect additional analytics.
 - ⏬ [spotify-connector](https://github.com/openpodcast/spotify-connector): Python client for the unoffical Spotify Podcast API.
 - ⏬ [apple-connector](https://github.com/openpodcast/apple-connector): Python client for the unoffical Apple Podcast API.
