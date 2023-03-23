@@ -1,4 +1,4 @@
-<img src="/profile/openpodcast.png" width="400px" />
+<a href="https://openpodcast.app"><img src="/profile/openpodcast.png" width="400px" /></a>
 
 
 ## 🎙️ Hi there and welcome to our space 
@@ -24,7 +24,7 @@ Here's a brief guide to our most popular repositories and what's inside.
 
 ### Try it out!
 
-To set up Open Podcast yourself (as a self-hosted solution), go check out the [stack](https://github.com/openpodcast/stack) repository, which contains all of the above components. We're curious about your feedback.
+To set up Open Podcast yourself (as a self-hosted solution), go check out the [stack](https://github.com/openpodcast/stack) repository, which contains all of the above components. We're curious about your feedback. Alternatively, check out our [hosted service](https://openpodcast.app).
 
 ### ❤️ Sponsors
 
