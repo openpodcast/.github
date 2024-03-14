@@ -26,7 +26,9 @@ Here's a brief guide to our most popular repositories and what's inside.
 
 ### Try it out!
 
-To set up Open Podcast yourself (as a self-hosted solution), go check out the [stack](https://github.com/openpodcast/stack) repository, which contains all of the above components. We're curious about your feedback. Alternatively, check out our [hosted service](https://openpodcast.app).
+To set up Open Podcast yourself (as a self-hosted solution), go check out the [stack](https://github.com/openpodcast/stack) repository, which contains all of the above components. We're curious about your feedback.
+
+[![OpenPodcast Banner](https://raw.githubusercontent.com/openpodcast/banner/main/openpodcast-banner.png)](https://openpodcast.app/)
 
 ### ❤️ Sponsors
 
