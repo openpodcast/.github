@@ -20,7 +20,6 @@ Here's a brief guide to our most popular repositories and what's inside.
 - ⏬ [apple-connector](https://github.com/openpodcast/apple-connector): Python client for the unoffical Apple Podcast API.
 - 📈 [pipelines](https://github.com/openpodcast/pipelines): Connector pipelines which fetch data from Spotify and Apple
 - ⚙️ [api](https://github.com/openpodcast/api): The Open Podcast server API which accepts payloads and persists them to our database.
-- 🗺️ [roadmap](https://github.com/openpodcast/roadmap): The project roadmap.
 
 ### Try it out!
 
